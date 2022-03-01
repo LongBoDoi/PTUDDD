@@ -6,6 +6,11 @@ bin-release/
 
 # Other files and folders
 .settings/
+# My exclusions
+.dart_tool/
+.idea/
+.metadata
+.packages
 
 # Executables
 *.swf
