@@ -56,6 +56,13 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - assets/floppydisk.png
+    - assets/iphone.png
+    - assets/laptop.png
+    - assets/pendrive.png
+    - assets/pixel.png
+    - assets/tablet.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
