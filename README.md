@@ -16,4 +16,7 @@ RESULT:
 RESULT:
 ![lesson2](https://user-images.githubusercontent.com/63195127/156124014-b070f140-1de1-41f3-9c21-dfdf7af35249.png)
 
-- Folder lesson3:
+- Folder lesson3: Write a program to show a list of Product Boxes which contain an image and its description
+
+RESULT:
+![Screenshot from 2022-03-03 15-50-23](https://user-images.githubusercontent.com/63195127/156531098-a93e6a6a-801e-4417-8650-16fbe0ad9a82.png)
