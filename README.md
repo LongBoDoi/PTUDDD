@@ -20,3 +20,8 @@ RESULT:
 
 RESULT:
 ![Screenshot from 2022-03-03 15-50-23](https://user-images.githubusercontent.com/63195127/156531098-a93e6a6a-801e-4417-8650-16fbe0ad9a82.png)
+
+- Folder lesson4: Write a program to handle simple gestures.
+
+RESULT:
+![Screenshot from 2022-03-04 08-51-56](https://user-images.githubusercontent.com/63195127/156684797-b04a282f-5a95-4841-832d-faa597847ee3.png)
