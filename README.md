@@ -25,3 +25,8 @@ RESULT:
 
 RESULT:
 ![Screenshot from 2022-03-04 08-51-56](https://user-images.githubusercontent.com/63195127/156684797-b04a282f-5a95-4841-832d-faa597847ee3.png)
+
+- Folder lesson5: Add Rating Box to the Product Box list in lesson 3
+
+RESULT:
+![Screenshot from 2022-03-10 12-13-28](https://user-images.githubusercontent.com/63195127/157594556-8e078729-dd4d-4c30-804f-4f35b33f7ac4.png)
