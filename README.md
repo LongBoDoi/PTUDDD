@@ -30,3 +30,8 @@ RESULT:
 
 RESULT:
 ![Screenshot from 2022-03-10 12-13-28](https://user-images.githubusercontent.com/63195127/157594556-8e078729-dd4d-4c30-804f-4f35b33f7ac4.png)
+
+- Folder lesson6: Rework lesson 5 using Scope Model
+
+RESULT:
+![Screenshot from 2022-03-10 15-17-20](https://user-images.githubusercontent.com/63195127/157618422-a927f8be-4736-4fcc-845e-8c9d2f0ed645.png)
